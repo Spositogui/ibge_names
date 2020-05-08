@@ -1,0 +1,8 @@
+Bem vindo(a) ao app de consulta de nomes. O que gostaria de fazer?
+      
+
+Digite 1 para: Ranking dos nomes mais comuns em uma Unidade Federativa.         
+Digite 2 para: Ranking dos nomes mais comuns em uma determinada cidade.         
+Digite 3 para: Frequência do uso de um nome ao longo dos anos.
+
+Digite exit para sair.
